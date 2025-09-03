@@ -7,7 +7,7 @@ Hi, I'm **Ryuji Pineda**, 21 years old.
 My hobbies are playing basketball, listening to our instructors, and I love watching movies.  
 
 <div align="center">
-  <img src="images/uji.png" alt="Profile Picture" width="200"/>
+  <img src="images/uji.png" alt="Profile Picture" width="300"/>
 </div>
 
 ---
