@@ -1,7 +1,3 @@
-# 👋 HI WELCOME TO OMNITRIX
-
----
-
 ## 🧑‍💻 About Me
 Hi, I'm **Ryuji Pineda**, 21 years old.  
 My hobbies are playing basketball, listening to our instructors, and I love watching movies.  
