@@ -1,4 +1,4 @@
-<h1 style="font-size:1px"> 👋 HI WELCOME TO OMNITRIX </h1>
+<h1 style="font-size:1px"> 🟢 HI WELCOME TO OMNITRIX 🟢</h1>
 
 ## 🧑‍💻 About Me
 Hi, I'm **Ryuji Pineda**, 21 years old.  
